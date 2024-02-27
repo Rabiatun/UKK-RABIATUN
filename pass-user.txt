@@ -1,0 +1,9 @@
+Login:
+
+User 01
+username = user01
+password = 123456
+
+User 02
+username = user02
+password = 12345
